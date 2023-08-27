@@ -2,7 +2,9 @@
     text-align: center;
     
   }
-  
+  .Form{
+    width: 100px ;
+  }
   
   .custom-header {
     background-color: #ffc107;
